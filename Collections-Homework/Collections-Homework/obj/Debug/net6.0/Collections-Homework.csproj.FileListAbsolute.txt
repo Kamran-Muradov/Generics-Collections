@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\Collections-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\Collections-Homework.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\Collections-Homework.AssemblyInfo.cs
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\Collections-Homework.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\bin\Debug\net6.0\Collections-Homework.exe
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\bin\Debug\net6.0\Collections-Homework.deps.json
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\bin\Debug\net6.0\Collections-Homework.runtimeconfig.json
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\bin\Debug\net6.0\Collections-Homework.dll
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\bin\Debug\net6.0\Collections-Homework.pdb
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\Collections-Homework.dll
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\refint\Collections-Homework.dll
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\Collections-Homework.pdb
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\Collections-Homework.genruntimeconfig.cache
+C:\Workspace Code Academy\Collections\Collections-Homework\Collections-Homework\obj\Debug\net6.0\ref\Collections-Homework.dll

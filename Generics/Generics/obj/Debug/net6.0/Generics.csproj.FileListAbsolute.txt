@@ -1,0 +1,15 @@
+C:\Workspace Code Academy\Generics\Generics\bin\Debug\net6.0\Generics.exe
+C:\Workspace Code Academy\Generics\Generics\bin\Debug\net6.0\Generics.deps.json
+C:\Workspace Code Academy\Generics\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+C:\Workspace Code Academy\Generics\Generics\bin\Debug\net6.0\Generics.dll
+C:\Workspace Code Academy\Generics\Generics\bin\Debug\net6.0\Generics.pdb
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\Generics.dll
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\refint\Generics.dll
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\Generics.pdb
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\ref\Generics.dll
+C:\Workspace Code Academy\Generics\Generics\obj\Debug\net6.0\Generics.sourcelink.json

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYoxElKX2aF9QYPMQ64M7Y7alBk6elL/OZ/uA5oY+tJPgLGaWHDNmhxjdpfoMu8G0kXjsMjQ44J9K4mvzxV6Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Collections-Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

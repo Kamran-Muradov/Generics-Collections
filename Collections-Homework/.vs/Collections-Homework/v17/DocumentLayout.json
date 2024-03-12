@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|c:\\workspace code academy\\collections\\collections-homework\\collections-homework\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|solutionrelative:collections-homework\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|c:\\workspace code academy\\collections\\collections-homework\\collections-homework\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|solutionrelative:collections-homework\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|c:\\workspace code academy\\collections\\collections-homework\\collections-homework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|solutionrelative:collections-homework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|c:\\workspace code academy\\collections\\collections-homework\\collections-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|solutionrelative:collections-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|c:\\workspace code academy\\collections\\collections-homework\\collections-homework\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|solutionrelative:collections-homework\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|c:\\workspace code academy\\collections\\collections-homework\\collections-homework\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4148E4-9DF5-42BE-A777-EA48BE525E87}|Collections-Homework\\Collections-Homework.csproj|solutionrelative:collections-homework\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Collections-Homework\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Collections-Homework\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwDgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:11:31.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Collections-Homework\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Collections-Homework\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:43:19.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Collections-Homework\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Collections-Homework\\Services\\CustomerService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA0wCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:41:14.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Collections-Homework\\Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Collections-Homework\\Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:40:20.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Collections-Homework\\Models\\Customer.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Models\\Customer.cs",
+              "RelativeToolTip": "Collections-Homework\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:38:05.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Collections-Homework\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Collections\\Collections-Homework\\Collections-Homework\\Program.cs",
+              "RelativeToolTip": "Collections-Homework\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:20:32.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
